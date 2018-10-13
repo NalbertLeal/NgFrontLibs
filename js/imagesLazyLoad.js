@@ -1,3 +1,5 @@
+var imgBrowserSupport;
+
 /*
 *	@brief	Discover the name of the browser that is running this code.
 *	@return The name of the browser that is running this code.
